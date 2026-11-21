@@ -1,0 +1,13 @@
+name: "Housecall Pro"
+description: "Home services software for contractors including plumbing, HVAC, and cleaning. Features scheduling, dispatch, invoicing, and customer management. Subscription pricing with tiered plans."
+source_url: "https://www.housecallpro.com/"
+category: "Home-Services Software"
+tags:
+  - "paid"
+  - "api"
+  - "home-services"
+  - "mobile-app"
+  - "hvac"
+icon_url: "https://icons.duckduckgo.com/ip3/www.housecallpro.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.housecallpro.com/>\n"
+updated_at: "2026-11-21 20:00"

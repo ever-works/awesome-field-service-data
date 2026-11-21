@@ -1,0 +1,72 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: hvac
+  name: "HVAC"
+- id: plumbing
+  name: "Plumbing"
+- id: home-services
+  name: "Home Services"
+- id: small-business
+  name: "Small Business"
+- id: invoicing
+  name: "Invoicing"
+- id: mobile-app
+  name: "Mobile App"
+- id: freemium
+  name: "Freemium"
+- id: mobile-workforce
+  name: "Mobile Workforce"
+- id: trades
+  name: "Trades"
+- id: quickbooks
+  name: "QuickBooks"
+- id: scheduling
+  name: "Scheduling"
+- id: analytics
+  name: "Analytics"
+- id: construction
+  name: "Construction"
+- id: inventory
+  name: "Inventory"
+- id: commercial-contractors
+  name: "Commercial Contractors"
+- id: project-management
+  name: "Project Management"
+- id: cloud
+  name: "Cloud"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: erp
+  name: "ERP"
+- id: free-plan
+  name: "Free Plan"
+- id: iot
+  name: "IoT"
+- id: uk
+  name: "UK"
+- id: dispatch
+  name: "Dispatch"
+- id: routing
+  name: "Routing"
+- id: gps
+  name: "GPS"
+- id: asset-tracking
+  name: "Asset Tracking"
+- id: route-optimization
+  name: "Route Optimization"
+- id: maintenance
+  name: "Maintenance"
+- id: gpl
+  name: "GPL"
+- id: crm
+  name: "CRM"
+- id: it-asset-management
+  name: "IT Asset Management"
+- id: helpdesk
+  name: "Helpdesk"

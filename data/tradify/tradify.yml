@@ -1,0 +1,13 @@
+name: "Tradify"
+description: "Job management software for tradespeople in Australia, New Zealand, and the UK. Includes quoting, scheduling, invoicing, and time tracking. Subscription-based with mobile apps."
+source_url: "https://www.tradifyhq.com/"
+category: "Home-Services Software"
+tags:
+  - "paid"
+  - "api"
+  - "mobile-workforce"
+  - "trades"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.tradifyhq.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.tradifyhq.com/>\n"
+updated_at: "2026-11-21 20:00"

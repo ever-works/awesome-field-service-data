@@ -1,0 +1,13 @@
+name: "Microsoft Dynamics 365 Field Service"
+description: "Cloud-based field service management for enterprises. Includes work order management, resource scheduling, and IoT integration. Licensed per user per month."
+source_url: "https://dynamics.microsoft.com/field-service"
+category: "Field Service Management"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "cloud"
+  - "iot"
+icon_url: "https://icons.duckduckgo.com/ip3/dynamics.microsoft.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://dynamics.microsoft.com/field-service>\n"
+updated_at: "2026-11-21 20:00"

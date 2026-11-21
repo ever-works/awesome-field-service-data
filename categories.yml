@@ -1,0 +1,12 @@
+- id: field-service-management
+  name: "Field Service Management"
+- id: home-services-software
+  name: "Home-Services Software"
+- id: dispatch-and-routing
+  name: "Dispatch & Routing"
+- id: work-orders
+  name: "Work Orders"
+- id: mobile-workforce-apps
+  name: "Mobile Workforce Apps"
+- id: open-source
+  name: "Open Source"

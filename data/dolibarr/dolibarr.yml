@@ -1,0 +1,13 @@
+name: "Dolibarr"
+description: "Open-source ERP and CRM with field service and intervention management. Includes work orders, scheduling, and mobile access. Available as self-hosted or cloud."
+source_url: "https://www.dolibarr.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "erp"
+  - "crm"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/www.dolibarr.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.dolibarr.org/>\n- Repository: <https://github.com/Dolibarr/dolibarr>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 20:00"

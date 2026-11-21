@@ -1,0 +1,13 @@
+name: "Onfleet"
+description: "Dispatch and routing software for delivery and field service operations. Offers route optimization, driver tracking, and customer notifications. Subscription pricing for fleets and field teams."
+source_url: "https://www.onfleet.com/"
+category: "Dispatch & Routing"
+tags:
+  - "paid"
+  - "api"
+  - "dispatch"
+  - "routing"
+  - "route-optimization"
+icon_url: "https://icons.duckduckgo.com/ip3/www.onfleet.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.onfleet.com/>\n"
+updated_at: "2026-11-21 20:00"

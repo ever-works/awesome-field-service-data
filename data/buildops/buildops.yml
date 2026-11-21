@@ -1,0 +1,13 @@
+name: "BuildOps"
+description: "Field service management software built for commercial contractors. Combines service, installation, and project management in one platform. Subscription-based pricing."
+source_url: "https://www.buildops.com/"
+category: "Field Service Management"
+tags:
+  - "paid"
+  - "api"
+  - "commercial-contractors"
+  - "project-management"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.buildops.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.buildops.com/>\n"
+updated_at: "2026-11-21 20:00"

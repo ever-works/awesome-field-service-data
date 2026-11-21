@@ -1,0 +1,13 @@
+name: "SAP Field Service Management"
+description: "Enterprise cloud solution for workforce scheduling and service execution. Offers mobile apps, routing, and integration with SAP ERP. Subscription licensing."
+source_url: "https://www.sap.com/products/field-service-management.html"
+category: "Field Service Management"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "cloud"
+  - "erp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sap.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.sap.com/products/field-service-management.html>\n"
+updated_at: "2026-11-21 20:00"

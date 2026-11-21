@@ -1,0 +1,31 @@
+company_name: "Awesome Field Service"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Field Service"
+initial_prompt: "A curated directory of field-service management, dispatch and home-services software. Include products such as ServiceTitan, Jobber, Housecall Pro, ServiceM8, FieldEdge, Salesforce Field Service, Zuper, Workiz, simPRO, BuildOps, FieldPulse, Odoo Field Service, plus other notable commercial and open-source options. Categories: Field Service Management, Home-Services Software, Dispatch & Routing, Work Orders, Mobile Workforce Apps, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-field-service-website"
+company_website: "https://field-service.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

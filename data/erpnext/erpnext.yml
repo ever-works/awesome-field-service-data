@@ -1,0 +1,13 @@
+name: "ERPNext"
+description: "Open-source ERP with field service and maintenance management modules. Supports work orders, asset tracking, and field task scheduling. Self-hostable under GPL license."
+source_url: "https://erpnext.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "erp"
+  - "maintenance"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/erpnext.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://erpnext.com/>\n- Repository: <https://github.com/frappe/erpnext>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 20:00"

@@ -1,0 +1,13 @@
+name: "ServiceM8"
+description: "Field service management app for small trade businesses. Supports job dispatch, scheduling, quoting, and invoicing via mobile and web. Offers a free tier for limited users and paid plans."
+source_url: "https://www.servicem8.com/"
+category: "Field Service Management"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "mobile-workforce"
+  - "trades"
+icon_url: "https://icons.duckduckgo.com/ip3/www.servicem8.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.servicem8.com/>\n"
+updated_at: "2026-11-21 20:00"

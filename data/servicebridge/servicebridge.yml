@@ -1,0 +1,13 @@
+name: "ServiceBridge"
+description: "Field service management platform by GPS Insight. Provides work orders, scheduling, dispatching, and asset tracking. Cloud-based subscription pricing."
+source_url: "https://www.servicebridge.com/"
+category: "Field Service Management"
+tags:
+  - "paid"
+  - "api"
+  - "asset-tracking"
+  - "cloud"
+  - "gps"
+icon_url: "https://icons.duckduckgo.com/ip3/www.servicebridge.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.servicebridge.com/>\n"
+updated_at: "2026-11-21 20:00"
